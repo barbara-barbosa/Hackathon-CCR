@@ -1,0 +1,88 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    height: 100vh;
+    margin: 0;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+.grid-container{
+    display: grid;
+    grid-template-areas:
+    "header"
+    "main"
+    "footer";
+    grid-template-columns: 1fr;
+    grid-template-rows: 5rem 1fr 5rem;
+    height: 100%;
+}
+.header{
+    grid-area: header;
+    background-color: #ffffff;
+    color: #161880;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem;
+}
+.brand a{
+    color: #235c81;
+    font-size: 2.5rem;
+    font-style: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-around;
+}
+.header-links a{
+    color: #1b5081;
+    text-decoration: none;
+    padding: 0.7rem;
+}
+.header-links a:hover{
+    color: #ff8000; 
+}
+.header-links-roadmap a{
+    color:#1b5081;
+    text-decoration: none;
+    padding: 0.7rem;
+}
+.header-links-roadmap a:hover{
+    color: #ff8000;
+}
+.main{
+    grid-area: main;
+    background-image: url("bg.jpg");
+    height:100%;
+    background-position: 0px 35px;;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    grid-area: footer;
+    background-color:#ffffff;
+    color: #1b5081;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-button{
+    color: #203040;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+    top: 550px;
+    left: 600px;
+}
+.login-button a:hover{
+    color:#ff8000;
+}
