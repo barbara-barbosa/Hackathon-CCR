@@ -11,12 +11,16 @@
 Projeto desenvolvido para o Hackathon CCR - Shawee. .
    <br />
 
+# Conheça nosso site 
+<br />
+<p align="center">
+  <a href="https://github.com/barbara-barbosa/Hackathon-CCR">
+    <img src="rm/geral.jpeg" alt="Logo" >
+  </a>
 
-
-
-
-
-Baixar Visual Code [VScode](https://reactjs.org/).
+ Visual Code [VScode]https://code.visualstudio.com/).
+ Download da pasta Login Registration
+ Clicar no index2 e reproduzir o codigo no Google Chrome
 
 
 <p align="center">
