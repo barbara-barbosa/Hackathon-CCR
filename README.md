@@ -18,9 +18,13 @@ Projeto desenvolvido para o Hackathon CCR - Shawee. .
     <img src="rm/geral.jpeg" alt="Logo" >
   </a>
 
- Visual Code [VScode]https://code.visualstudio.com/).
+ Visual Code [VS Code](https://code.visualstudio.com/).
+ <p align="center">
  Download da pasta Login Registration
+   <br />
+ <p align="center">
  Clicar no index2 e reproduzir o codigo no Google Chrome
+   <br />
 
 
 <p align="center">
