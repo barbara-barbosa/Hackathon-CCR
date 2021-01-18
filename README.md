@@ -26,7 +26,7 @@ Conheça nosso Time ! .
 <br />
 <p align="center">
   <a href="https://github.com/barbara-barbosa/Hackathon-CCR">
-    <img src="rm/time.jpg" alt="time" width="180" height="180">
+    <img src="rm/time.jpeg" alt="time" width="180" height="180">
   </a>
 
 
